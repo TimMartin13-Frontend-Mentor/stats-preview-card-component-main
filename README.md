@@ -39,8 +39,8 @@ Mobile version:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-main-rEFNR8ZGO)
+- Live Site URL: [Github Pages](https://timmartin13.github.io/stats-preview-card-component-main/)
 
 ## My process
 
